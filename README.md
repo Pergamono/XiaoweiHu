@@ -1,5 +1,5 @@
 # XiaoweiHu
-about me
+about me :blush:
 
 [![Xiaowei's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
